@@ -1,0 +1,9 @@
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/MyWordS.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/MyWordS_autogen_timestamp_deps.dir
+D:/QtProject/MyWordS/build-MyWordS-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/MyWordS_autogen.dir
